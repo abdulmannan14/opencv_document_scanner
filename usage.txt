@@ -1,0 +1,6 @@
+python scan.py --images folder_name/
+
+
+for manual setting each picture you can type
+
+python scan.py --images sample_images/ -i
